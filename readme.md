@@ -1,4 +1,4 @@
-I am a <span style="color: #9a3334; font-weight: 600">research scientist</span> at ONERA, the French Aerospace Lab, passionate about <span style="color: #9a3334; font-weight: 600">aviation, maps and data</span>.
+I am a **research scientist** at ONERA, the French Aerospace Lab, passionate about**aviation, maps and data**.
 
 My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection. Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
 
@@ -9,11 +9,10 @@ My research interests include Data Science, Machine Learning and Decision Scienc
 
 ### Python libraries
 
-[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)][https://github.com/xoolive/traffic]
-[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)][https://github.com/junzis/pymodes]
-
-[![facile](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=facile&show_owner=true)][https://github.com/xoolive/facile]
+[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)](https://github.com/xoolive/traffic)
+[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes])
+[![facile](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=facile&show_owner=true)](https://github.com/xoolive/facile)
 
 ### Open-data initiative (website)
 
-[![atmdata](https://github-readme-stats.vercel.app/api/pin/?username=atmdata&repo=atmdata.github.io&show_owner=true)][https://atmdata.github.io]
+[![atmdata](https://github-readme-stats.vercel.app/api/pin/?username=atmdata&repo=atmdata.github.io&show_owner=true)](https://atmdata.github.io)
