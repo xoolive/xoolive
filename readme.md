@@ -10,7 +10,7 @@ My research interests include Data Science, Machine Learning and Decision Scienc
 ### Python libraries
 
 [![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)](https://github.com/xoolive/traffic)
-[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes])
+[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
 [![facile](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=facile&show_owner=true)](https://github.com/xoolive/facile)
 
 ### Open-data initiative (website)
