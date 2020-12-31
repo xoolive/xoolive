@@ -1,4 +1,4 @@
-I am a **research scientist** at ONERA, the French Aerospace Lab, passionate about**aviation, maps and data**.
+I am a **research scientist** at ONERA, the French Aerospace Lab, passionate about **aviation, maps and data**.
 
 My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection. Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
 
