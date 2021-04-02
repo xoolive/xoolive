@@ -10,7 +10,6 @@ My research interests include Data Science, Machine Learning and Decision Scienc
 I am also the author of the Python book (in French 🇫🇷) [*Programmation Python avancée*](https://www.xoolive.org/python/) *– Guide pour une pratique élégante et efficace* (ISBN 978-2-10-081598-2), [available](https://www.amazon.fr/dp/2100815989/) from May 5th, 2021.
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xoolive&layout=compact&exclude_repo=xoolive.github.io&hide=Jupyter%20Notebook,Vim%20script&langs_count=8)
-![github stats](https://github-readme-stats.vercel.app/api?username=xoolive&show_icons=true&count_private=true)
 
 ## Projects
 
