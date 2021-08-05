@@ -26,4 +26,12 @@ I am also the author of the Python book (in French 🇫🇷) [*Programmation Pyt
 
 ### Book
 
-[![python](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=python&show_owner=true)](https://github.com/xoolive/python)
+[![python](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=python&show_owner=true)](https://www.xoolive.org/python)
+<!--[![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=aviationbook&repo=aviationbook&show_owner=true)](https://github.com/aviationbook/aviationbook)-->
+
+### Teaching materials
+
+[![pyseminar](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=pyseminar&show_owner=true)](https://github.com/xoolive/pyseminar)
+[![pyweek](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=pyweek&show_owner=true)](https://github.com/xoolive/pyweek)
+[![optim4ai](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=optim4ai&show_owner=true)](https://github.com/xoolive/optim4ai)
+[![constraints](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=constraints&show_owner=true)](https://github.com/xoolive/constraints)
