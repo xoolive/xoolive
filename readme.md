@@ -1,4 +1,4 @@
-<p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/xoolive">Twitter</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stackoverflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
+<p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/xoolive">Twitter</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://www.researchgate.net/profile/Xavier-Olive">ResearchGate</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stackoverflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoolive&layout=compact&exclude_repo=xoolive.github.io&hide=Jupyter%20Notebook,Vim%20script,HTML,Makefile&langs_count=8"
      alt="Programming stats" align="right"/>
