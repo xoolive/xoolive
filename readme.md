@@ -34,7 +34,7 @@ It heavily relies on two libraries I contribute to:
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=false)](https://github.com/xoolive/cartes)
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
 
-The [facile](https://github.com/xoolive/facile) library is a Python binding to a research-oriented constraint satisfaction and optimisation solver originally written in OCaml. The library offers a comfortable syntax for teaching purposes. I wrote a basic [blog post](https://www.xoolive.org/2014/09/20/python-wrapping-for-ocaml-facile-library.html) few years ago to explain the technical *tour de force* it has been to implement a binding between such two different languages.
+The [facile](https://github.com/xoolive/facile) library is a Python binding to a research-oriented constraint satisfaction and optimisation solver originally written in OCaml. The library offers a comfortable syntax for teaching purposes. I wrote a basic [blog post](https://www.xoolive.org/2014/09/20/python-wrapping-for-ocaml-facile-library.html) few years ago to explain the technical *tour de force* it has been to implement a binding between two such different languages.
 
 [![facile](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=facile&show_owner=false)](https://github.com/xoolive/facile)
 
