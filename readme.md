@@ -1,4 +1,4 @@
-<p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/xoolive">Twitter</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://www.researchgate.net/profile/Xavier-Olive">ResearchGate</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stackoverflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
+<p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/x00live">Twitter</a> | <a href="https://mapstodon.space/@xoolive">Mastodon</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://www.researchgate.net/profile/Xavier-Olive">ResearchGate</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stackoverflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoolive&layout=compact&exclude_repo=xoolive.github.io&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Makefile,CMake,Vim%20script&langs_count=8"
      alt="Programming stats" align="right"/>
@@ -33,6 +33,8 @@ It heavily relies on two libraries I contribute to:
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=false)](https://github.com/xoolive/traffic.js)
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=false)](https://github.com/xoolive/cartes)
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
+[![pitot](https://github-readme-stats.vercel.app/api/pin/?username=atmdata&repo=pitot&show_owner=false)](https://github.com/atmdata/pitot)
+[![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=false)](https://github.com/achevrot/impunity)
 
 The [facile](https://github.com/xoolive/facile) library is a Python binding to a research-oriented constraint satisfaction and optimisation solver originally written in OCaml. The library offers a comfortable syntax for teaching purposes. I wrote a basic [blog post](https://www.xoolive.org/2014/09/20/python-wrapping-for-ocaml-facile-library.html) few years ago to explain the technical *tour de force* it has been to implement a binding between two such different languages.
 
