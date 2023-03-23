@@ -33,7 +33,7 @@ It heavily relies on two libraries I contribute to:
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=false)](https://github.com/xoolive/traffic.js)
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=false)](https://github.com/xoolive/cartes)
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
-[![pitot](https://github-readme-stats.vercel.app/api/pin/?username=atmdata&repo=pitot&show_owner=false)](https://github.com/atmdata/pitot)
+[![pitot](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pitot&show_owner=false)](https://github.com/open-aviation/pitot)
 [![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=false)](https://github.com/achevrot/impunity)
 
 The [facile](https://github.com/xoolive/facile) library is a Python binding to a research-oriented constraint satisfaction and optimisation solver originally written in OCaml. The library offers a comfortable syntax for teaching purposes. I wrote a basic [blog post](https://www.xoolive.org/2014/09/20/python-wrapping-for-ocaml-facile-library.html) few years ago to explain the technical *tour de force* it has been to implement a binding between two such different languages.
