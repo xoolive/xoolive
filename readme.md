@@ -19,7 +19,6 @@ Although my main job revolves around academic research, writing proposals and [r
 I am the author of the Python book (in French) [*Programmation Python avancée*](https://www.xoolive.org/python/) *– Guide pour une pratique élégante et efficace* (ISBN 978-2-10-081598-2), [available](https://www.amazon.fr/dp/2100815989/) from May 5th, 2021.
 
 [![python](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=python&show_owner=false)](https://www.xoolive.org/python)
-<!--[![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=aviationbook&repo=aviationbook&show_owner=true)](https://github.com/aviationbook/aviationbook)-->
 
 ## Python libraries
 
@@ -40,13 +39,15 @@ The [facile](https://github.com/xoolive/facile) library is a Python binding to a
 
 [![facile](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=facile&show_owner=false)](https://github.com/xoolive/facile)
 
-## Open-data initiative (website)
+## Open aviation initiative
+
+
+[![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=aviationbook&show_owner=true)](https://github.com/open-aviation/aviationbook)
 
 [![atmdata](https://github-readme-stats.vercel.app/api/pin/?username=atmdata&repo=atmdata.github.io&show_owner=false)](https://atmdata.github.io)
 
 ## Teaching materials
 
-[![pyseminar](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=pyseminar&show_owner=false)](https://github.com/xoolive/pyseminar)
-[![pyweek](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=pyweek&show_owner=false)](https://github.com/xoolive/pyweek)
+[![pyclass](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=pyclass&show_owner=false)](https://github.com/xoolive/pyclass)
 [![optim4ai](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=optim4ai&show_owner=false)](https://github.com/xoolive/optim4ai)
 [![constraints](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=constraints&show_owner=false)](https://github.com/xoolive/constraints)
