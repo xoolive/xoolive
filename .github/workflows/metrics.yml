@@ -57,7 +57,7 @@ jobs:
           base: ""
           filename: github-stargazers.svg
 
-          plugin_stargazers: no
+          plugin_stargazers: yes
           plugin_stargazers_charts: no
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
