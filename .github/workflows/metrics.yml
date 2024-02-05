@@ -9,7 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -17,12 +17,19 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: xoolive
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
+          filename: github-metrics.svg
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: xoolive
+          template: classic
+          base: ""
+          filename: github-languages.svg
+
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -36,16 +43,35 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: xoolive.github.io
           plugin_languages_threshold: 0%
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_stargazers: yes
+
+          # plugin_people: yes
+          # plugin_people_limit: 24
+          # plugin_people_size: 28
+          # plugin_people_types: followers, following
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: xoolive
+          template: classic
+          base: ""
+          filename: github-stargazers.svg
+
+          plugin_stargazers: no
           plugin_stargazers_charts: no
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
           plugin_stargazers_worldmap: yes
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: xoolive
+          template: classic
+          base: ""
+          filename: github-stars.svg
+
           plugin_stars: yes
           plugin_stars_limit: 4
