@@ -1,4 +1,4 @@
-<p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/x00live">Twitter</a> | <a href="https://mapstodon.space/@xoolive">Mastodon</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://www.researchgate.net/profile/Xavier-Olive">ResearchGate</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stackoverflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
+<p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/x00live">Twitter</a> | <a href="https://mapstodon.space/@xoolive">Mastodon</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://www.researchgate.net/profile/Xavier-Olive">ResearchGate</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stack Overflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
 
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoolive&layout=compact&exclude_repo=xoolive.github.io&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Makefile,CMake,Vim%20script,TeX&langs_count=8"
      alt="Programming stats" align="right"/-->
@@ -34,14 +34,12 @@ I am also one of the main contributors of the (hatching) book [*A journey throug
 ## Software libraries
 
 I am the main developper of the [traffic](https://github.com/xoolive/traffic) library suite designed for analysing air traffic trajectory data.  
-It heavily relies on two libraries I contribute to:
-
-- the [cartes](https://github.com/xoolive/cartes) library for geographic visualisation;
-- the [pyModeS](https://github.com/junzis/pymodes) library for ADS-B data decoding.
 
 [![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=false)](https://github.com/xoolive/traffic)  
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=false)](https://github.com/xoolive/traffic.js)  
 [![traffic-rs](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic-rs&show_owner=false)](https://github.com/xoolive/traffic-rs)
+
+It heavily relies on more libraries I contribute to:
 
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=false)](https://github.com/xoolive/cartes)
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
