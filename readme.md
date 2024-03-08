@@ -42,9 +42,10 @@ I am the main developper of the [traffic](https://github.com/xoolive/traffic) li
 It heavily relies on more libraries I contribute to:
 
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=false)](https://github.com/xoolive/cartes)
-[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
+[![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=rs1090&show_owner=false)](https://github.com/xoolive/rs1090)
 [![pitot](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pitot&show_owner=true)](https://github.com/open-aviation/pitot)
 [![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=false)](https://github.com/achevrot/impunity)
+[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
 
 ## Community and interests
 
