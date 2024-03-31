@@ -20,7 +20,7 @@ Although my main job revolves around academic research, writing proposals and [r
 
 I am the author of the Python book (in French) [*Programmation Python avancée*](https://www.xoolive.org/python/) *– Guide pour une pratique élégante et efficace* (ISBN 978-2-10-081598-2), [available](https://www.amazon.fr/dp/2100815989/) from May 5th, 2021.
 
-A second edition is planned for September 2023.
+A second edition is planned for September 2024.
 
 [![python](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=python&show_owner=false)](https://www.xoolive.org/python)
 
