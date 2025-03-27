@@ -14,13 +14,13 @@ Although my main job revolves around academic research, writing proposals and [r
 ## Book
 
 <a href="https://www.xoolive.org/python/">
+  <img src="https://www.xoolive.org/python/_static/9782100863297.jpg"
+       alt="Programmation Python avancée" width="20%" align="right"/>
   <img src="https://www.xoolive.org/python/_static/9782100815982_thumb.jpg"
        alt="Programmation Python avancée" width="20%" align="right"/>
 </a>
 
-I am the author of the Python book (in French) [*Programmation Python avancée*](https://www.xoolive.org/python/) *– Guide pour une pratique élégante et efficace* (ISBN 978-2-10-081598-2), [available](https://www.amazon.fr/dp/2100815989/) from May 5th, 2021.
-
-A second edition is planned for September 2024.
+I am the author of the Python book (in French) [*Programmation Python avancée*](https://www.xoolive.org/python/) *– Guide pour une pratique élégante et efficace* (ISBN  978-2-10-086329-7), [available](https://amzn.eu/d/g6nXxpe) online (2nd edition)
 
 [![python](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=python&show_owner=false)](https://www.xoolive.org/python)
 
@@ -38,6 +38,11 @@ I am the main developper of the [traffic](https://github.com/xoolive/traffic) li
 [![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=false)](https://github.com/xoolive/traffic)  
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=false)](https://github.com/xoolive/traffic.js)  
 [![traffic-rs](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic-rs&show_owner=false)](https://github.com/xoolive/traffic-rs)
+
+and one of the initiators of the [tangram](https://github.com/open-aviation/tangram) platform.
+
+[![tangram](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=tangram&show_owner=true)](https://github.com/open-aviation/tangram)
+
 
 It heavily relies on more libraries I contribute to:
 
