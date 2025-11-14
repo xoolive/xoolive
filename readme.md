@@ -37,7 +37,7 @@ I am the main developper of the [traffic](https://github.com/xoolive/traffic) li
 
 [![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=false)](https://github.com/xoolive/traffic)  
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=false)](https://github.com/xoolive/traffic.js)  
-[![traffic-rs](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic-rs&show_owner=false)](https://github.com/xoolive/traffic-rs)
+[![traffic-rs](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=thrust&show_owner=false)](https://github.com/xoolive/thrust)
 
 and one of the initiators of the [tangram](https://github.com/open-aviation/tangram) platform.
 
