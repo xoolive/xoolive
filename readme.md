@@ -35,7 +35,7 @@ I am also one of the main contributors of the (hatching) book [*A journey throug
 
 I am the main developper of the [traffic](https://github.com/xoolive/traffic) library suite designed for analysing air traffic trajectory data.  
 
-[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=false)](https://github.com/xoolive/traffic)  
+[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=false)](https://github.com/xoolive/traffic)
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=false)](https://github.com/xoolive/traffic.js)  
 [![traffic-rs](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=thrust&show_owner=false)](https://github.com/xoolive/thrust)
 
@@ -47,8 +47,9 @@ and one of the initiators of the [tangram](https://github.com/open-aviation/tang
 It heavily relies on more libraries I contribute to:
 
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=false)](https://github.com/xoolive/cartes)
-[![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=rs1090&show_owner=false)](https://github.com/xoolive/rs1090)
+[![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=jet1090&show_owner=false)](https://github.com/xoolive/jet1090)
 [![pitot](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pitot&show_owner=true)](https://github.com/open-aviation/pitot)
+[![impunity](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=ship162&show_owner=false)](https://github.com/xoolive/ship162)
 [![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=false)](https://github.com/achevrot/impunity)
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
 
