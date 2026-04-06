@@ -22,7 +22,7 @@ jobs:
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages
+          card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=xoolive.github.io&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Makefile,CMake,Vim%20script,TeX&langs_count=8
           path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
