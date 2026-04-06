@@ -109,20 +109,12 @@ jobs:
           path: profile/pin-pyopensky.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - ship162
+      - name: Generate pin - datalink
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=xoolive&repo=ship162&show_owner=false
-          path: profile/pin-ship162.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin - desperado
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=xoolive&repo=desperado&show_owner=false
-          path: profile/pin-desperado.svg
+          options: username=xoolive&repo=datalink&show_owner=false
+          path: profile/pin-datalink.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin - impunity
