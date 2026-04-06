@@ -1,7 +1,5 @@
 <p><pre align="center"><strong>Xavier Olive |</strong> <a href="https://www.xoolive.org">Homepage</a> | <a href="https://twitter.com/x00live">Twitter</a> | <a href="https://mapstodon.space/@xoolive">Mastodon</a> | <a href="https://github.com/xoolive">GitHub</a> | <a href="https://www.researchgate.net/profile/Xavier-Olive">ResearchGate</a> | <a href="https://linkedin.com/in/xoolive">LinkedIn</a> | <a href="https://stackoverflow.com/users/1595335/xoolive">Stack Overflow</a> | <a href="https://www.strava.com/athletes/6098259">Strava</a></pre></p>
 
-<img src="./profile/languages.svg" alt="Programming stats" align="right"/>
-
 <img src="https://raw.githubusercontent.com/xoolive/xoolive/main/github-metrics.svg" alt="GitHub metrics" style="width: 400px" align="right"/>
      
 I am a **research scientist** at ONERA, the French Aerospace Lab, passionate about **aviation, maps and data**.
@@ -23,7 +21,9 @@ I am the author of the Python book (in French) [*Programmation Python avancée*]
 
 [![python](./profile/pin-python.svg)](https://www.xoolive.org/python)
 
-<img src="https://raw.githubusercontent.com/xoolive/xoolive/main/github-languages.svg" alt="GitHub languages"/>
+<img src="./profile/languages.svg" alt="Programming stats"/>
+
+<!--<img src="https://raw.githubusercontent.com/xoolive/xoolive/main/github-languages.svg" alt="GitHub languages"/>-->
 
 I am also one of the main contributors of the (hatching) book [*A journey through aviation data*](https://aviationbook.netlify.app/).
 
