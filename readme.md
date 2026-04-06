@@ -49,8 +49,9 @@ It heavily relies on more libraries I contribute to:
 [![rs1090](./profile/pin-jet1090.svg)](https://github.com/xoolive/jet1090)
 [![pitot](./profile/pin-pitot.svg)](https://github.com/open-aviation/pitot)
 [![pyopensky](./profile/pin-pyopensky.svg)](https://github.com/open-aviation/pyopensky)
-[![ship162](./profile/pin-ship162.svg)](https://github.com/xoolive/ship162)
 [![desperado](./profile/pin-desperado.svg)](https://github.com/xoolive/desperado)
+[![datalink](./profile/pin-datalink.svg)](https://github.com/xoolive/datalink)
+[![ship162](./profile/pin-ship162.svg)](https://github.com/xoolive/ship162)
 [![impunity](./profile/pin-impunity.svg)](https://github.com/achevrot/impunity)
 
 ## Community and interests
