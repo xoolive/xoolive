@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A Rust-first aviation datalink workspace including</tspan><tspan dy="1.2em" x="25">ACARS/ARINC 622 decoding and VDL2 demodulation</tspan>
+      <tspan dy="1.2em" x="25">A Rust-first aviation datalink suite including ACARS</tspan><tspan dy="1.2em" x="25">decoding and VHF, VDL2, HFDL demodulation</tspan>
     </text>
 
     <g transform="translate(30, 65)">
