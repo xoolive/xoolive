@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Xavier Olive&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 853, Total Commits  (last year) : 838, Total PRs: 217, Total Issues: 173, Contributed to (last year): 19</desc>
+        <desc id="descId">Total Stars Earned: 853, Total Commits  (last year) : 838, Total PRs: 219, Total Issues: 173, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 18.12160103633103;
+        stroke-dashoffset: 18.036763421489802;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >217</text>
+      >219</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
